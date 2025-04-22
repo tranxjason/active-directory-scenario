@@ -27,7 +27,7 @@ __Troubleshooting Scenarios__
 
 <h1>Scenarios</h1>
 
-<h3>User Account Creation</h3>
+<h3>① User Account Creation</h3>
 
 __Background:__
 
@@ -54,7 +54,7 @@ __Considerations:__
 - <b>The temporary password should meet the company's password policy requirements.</b> 
 - <b>Ensure that John has the necessary permissions and group memberships to access the resources required for his role.</b>
 
-<h3>Password Reset</h3>
+<h3>② Password Reset</h3>
 
 __Background:__
 
@@ -78,7 +78,7 @@ __Considerations:__
 - <b>Ensure that the chosen temporary password is strong and complies with the company's password policy.</b> 
 - <b>Remind Sarah to update the password on any additional devices or applications where the old password was saved.</b>
 
-<h3>Group Membership Update</h3>
+<h3>③ Group Membership Update</h3>
 
 __Background:__
 
@@ -105,7 +105,7 @@ __Considerations:__
 - <b>Communicate the changes to other relevant parties, such as the IT security team, to maintain awareness.</b>
 - <b>Verify that Emma's access permissions are correctly configured after the group membership update.</b>
 
-<h3>Account Deactivation</h3>
+<h3>④ Account Deactivation</h3>
 
 __Background:__
 
@@ -132,7 +132,7 @@ __Considerations:__
 - <b>Retain Mark's user account details for historical records and potential future reference.</b>
 - <b>Conduct a review of Mark's access rights to identify and update any shared resources associated with his account.</b>
 
-<h3> Organizational Unit (OU) Management</h3>
+<h3>⑤ Organizational Unit (OU) Management</h3>
 
 __Background:__
 
